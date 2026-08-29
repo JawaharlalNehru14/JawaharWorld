@@ -75,7 +75,7 @@ export const SKILLS_DATA = [
 export const EXPERIENCE_DATA = [
   {
     id: 1,
-    role: 'Frontend Developer',
+    role: 'Frontend Developer-Technical',
     company: 'CAINMAI Software & Export Services Pvt.Ltd',
     location: 'Chennai',
     period: 'Dec 2024 – Present',
