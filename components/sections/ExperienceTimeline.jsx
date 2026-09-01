@@ -87,9 +87,9 @@ export default function ExperienceTimeline({ standalone = false }) {
           >
             Experience Timeline
           </h2>
-          <p style={{ color: "#9CA3AF", maxWidth: 500, margin: "0 auto" }}>
+          <p style={{ color: "#9CA3AF", maxWidth: 600, margin: "0 auto" }}>
             Every role is a new orbit. Every project, a new mission. Here's my
-            journey through the developer universe.
+            journey through the developer universe and My Life journey After Colleage.
           </p>
         </AnimatedWrapper>
         <div style={{ position: "relative", maxWidth: 800, margin: "0 auto" }}>
