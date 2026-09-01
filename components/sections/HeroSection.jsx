@@ -137,7 +137,7 @@ export default function HeroSection() {
               style={{ display: 'flex', gap: '2rem', marginBottom: '1.75rem', flexWrap: 'wrap' }}
             >
               {[
-                { value: '3.5+', label: 'Years OverAll Exp.' },
+                { value: '3+', label: 'Years OverAll IT Exp.' },
                 { value: '10+', label: 'Projects' },
                 { value: '2', label: 'Companies' },
               ].map(({ value, label }) => (

@@ -91,31 +91,107 @@ export const EXPERIENCE_DATA = [
   },
   {
     id: 2,
-    role: 'Associate Consultant – Power BI Developer',
+    role: 'Associate Consultant of ReactJS Developer',
     company: 'Savic Technology Pvt. Ltd',
     location: 'Chennai',
-    period: 'Dec 2023 – Nov 2024',
+    period: 'July 2024 – Oct 2024',
     current: false,
     color: '#A855F7',
     points: [
-      'Developed interactive web apps using React.js hooks for dynamic UI',
-      'Built 10+ data-driven forms with robust validation logic',
-      'Achieved 20% increase in user engagement through intuitive UI design',
-      'Worked on SAP BTP/BAS mobile app and Power BI dashboard creation',
+      'ReactJS Developer with 5 months of hands-on experience building dynamic and user-friendly web applications.',
+      'Experienced in designing and developing reusable React components',
+      'Skilled in implementing state management solutions for efficient application development.n',
+      'Knowledgeable in optimizing React component performance.',
+      'Strong understanding of JavaScript fundamentals, including ES6+ features.',
+      'Hoisting Mechanism',
+      'Promises',
+      'Async/Await',
+      'Error Handling',
+      'Event Handling',
+      'DOM Manipulation Etc..',
+    ],
+  },
+  {
+    id: 3,
+    role: 'Associate Consultant – Power BI Developer',
+    company: 'Savic Technology Pvt. Ltd',
+    location: 'Chennai',
+    period: 'Aug 2023 – June 2024',
+    current: false,
+    color: '#A855F7',
+    points: [
+      'Performance-driven Power BI Developer with 1 year of experience managing end-to-end data visualization pipelines. Highly proficient in SQL Server, data modeling (Star Schema), and migrating legacy spreadsheets into fully automated, real-time reports.',
     ],
   },
     {
-    id: 3,
-    role: 'Web Developer',
-    company: 'Sri Softwarez',
-    location: 'Sivakasi',
-    period: 'Apr 2021 – Feb 2022',
+    id: 4,
+    role: 'Deputy Asscociate Consultant – Power BI Developer',
+    company: 'Savic Technology Pvt. Ltd',
+    location: 'Chennai',
+    period: 'Dec 2022 – July 2023',
     current: false,
     color: '#abf755',
     points: [
-      'At a time when I did not completed my degree🎓, I proactively stepped into the professional world through part-time opportunities, where I began developing static websites and building my foundational experience.',
+      'I am proud to have successfully completed my internship at Savic Technology. During this internship, I had the opportunity to Power Platform Developer , which allowed me to gain valuable hands-on experience. I am grateful for the guidance and mentorship I received during this period, and I look forward to leveraging the skills and knowledge I acquired to contribute effectively in my future endeavors.',
+      
     ],
-  }
+  },
+      {
+    id: 5,
+    role: 'Carrer Transition - I can never forget my first journey to Chennai. Even today, those days remain 🥹vivid in my eyes',
+    company: 'A Journey I Can Never Forget',
+    location: 'Chennai',
+    period: 'Aug 2022 – Nov 2022',
+    current: false,
+    color: '#abf755',
+    points: [
+  '🚶‍♂️ My first step toward my career — For the first time, I came to Chennai with a dream of finding my first job and building an independent career.',
+
+  '💰 Came with just ₹6,000 — With very limited financial resources, even finding affordable accommodation and managing daily expenses was a challenge.',
+
+  '💻 Focused on learning — I used a government-provided laptop and enrolled in an online Software Testing course at Besant Technologies to develop job-ready technical skills.',
+
+  '🔎 Never stopped looking for opportunities — Alongside my course, I actively searched for Software Testing opportunities and attended interviews, often walking more than 6 km a day to reach them.',
+
+  '💪 Kept going despite difficult circumstances — There were days when managing even basic meals was difficult, but I continued learning and attending interviews instead of giving up.',
+
+  '🎯 The first goal didn’t work out — Despite attending multiple interviews, I wasn’t able to secure a Software Testing role during that period. But I chose to treat the experience as a learning opportunity rather than a failure.',
+
+  '🧠 Learned lessons beyond the classroom — This phase taught me resilience, patience, self-discipline, adaptability, and the importance of continuously upgrading my skills.',
+
+  '🌱 Turned a difficult beginning into a foundation — That experience changed the way I approached my career. I became more determined to learn, improve, and create better opportunities for myself.',
+
+  '💭 “I didn’t get the opportunity I was looking for at that time, but I gained something more valuable — the mindset to keep learning, keep improving, and never give up.”'
+],
+  },
+  {
+    id: 6,
+    role: 'Personal Goal Pursuit – Cricket🥺🏏',
+    company: 'Sivaksi Cricket Academy',
+    location: 'Sivaksi',
+    period: 'Aug 2021 – July 2022',
+    current: false,
+    color: '#abf755',
+    points: [
+      'I decided to pursue my ambition of becoming a professional cricketer and playing in the Tamil Nadu Premier League (TNPL).',
+      'So, I joined a cricket academy in Sivakasi on a full-time basis, where I dedicated myself to regular training, fitness, skill development, and match preparation. During this period, I also participated in TNPL cricket selection opportunities and gave my best to pursue my goal of playing at the professional level.',
+      'Although this journey did not lead to the outcome I hoped for, the experience taught me valuable lessons about discipline, consistency, hard work, handling competition, and staying committed to a goal. It remains an important part of my personal journey and helped shape my determination to keep working toward my career goals.'
+    ],
+  },
+  {
+    id: 7,
+    role: 'Gap Year-(COVID-19 Pandemic)',
+    company: 'Career Break',
+    location: 'Rajapalayam',
+    period: 'May 2020 – July 2021',
+    current: false,
+    color: '#abf755',
+    points: [
+      'During the COVID-19 period, my 8th-semester and remaining arrear examinations were conducted online under Anna University. While attending the PQT and M3 examinations, I faced unexpected technical issues related to my laptop and internet connection, which affected my exams. As a result, the university conducted the examinations again between June and July 2021, and I successfully completed my pending examinations during that period.',
+      'Alongside preparing for and completing my semester and arrear examinations, I also took responsibility for supporting my family financially. During this challenging period, I worked in daily-wage jobs in my local area while continuing my studies and working toward completing my degree.',
+      'This period taught me valuable lessons in responsibility, perseverance, time management, and staying committed to my goals despite difficult circumstances. I consider it an important part of my journey that helped shape my attitude toward work and challenges.'
+    ],
+  },
 ]
 
 export const PROJECTS_DATA = [
